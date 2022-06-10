@@ -1,0 +1,29 @@
+{
+  "page1": {
+    "initialSettings": {
+      "coordinates": [
+        {
+          "value": "WowJSONinjected!!"
+        },
+        12
+      ],
+      "color": "green"
+    },
+    "available-filters": {
+      "name-filter": {
+        "column": "lastName",
+        "sort": "desc"
+      }
+    },
+    "data": [
+      {
+        "x": 10,
+        "value": 100
+      },
+      {
+        "x": 20,
+        "value": 400
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+"page1.initialSettings.color": "green"
+"page1.available-filters.name-filter.sort": "asc"
+"page1.initialSettings.coordinates": [24,30]
+"page1.available-filters.name-filter": { "column" : "lastName", "sort": "desc" }
+"page1.initialSettings.coordinates[0]": { "value": "Wow JSON injected!!" }
+"page1.data[1].value": 400
